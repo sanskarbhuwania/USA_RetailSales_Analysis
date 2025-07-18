@@ -79,24 +79,3 @@ These techniques helped uncover **seasonality trends**, **COVID-19 impacts**, an
     ![image](https://github.com/user-attachments/assets/e2dd83b2-f1b5-4eaa-bf4a-ab2880ba43bf)
 
   - Month-over-month percent change and year-over-year (YoY) comparisons revealed that: The biggest disruption came in 2020, with negative YoY growth for several categories. 2021 showed massive recovery, especially in women’s clothing and sporting goods.
-
-
-## References
-
-- **Data Source**:  
-  U.S. Census Bureau. *Monthly Retail Trade Report: Retail and Food Services Sales (1992–present)*  
-  [https://www.census.gov/retail/index.html](https://www.census.gov/retail/index.html)
-
-- **Why Retail Sales Matter**:  
-  Retail sales data is used as a **leading economic indicator** to understand consumer behavior in the U.S. It is published **monthly**, ahead of quarterly GDP figures, and is often covered in financial media to forecast economic momentum.
-
-- **Economic Context Referenced**:
-  - 2008–2009: Global Financial Crisis
-  - 2020: COVID-19 Pandemic and its economic impact
-  - Post-2020: Recovery patterns and consumer rebound visible in retail categories such as sporting goods and apparel
-
-- **BigQuery SQL Documentation**: [https://cloud.google.com/bigquery/docs/reference/standard-sql/query-syntax](https://cloud.google.com/bigquery/docs/reference/standard-sql/query-syntax)
-
-- **Book Reference**:  
-  Molinaro, Cathy T. *SQL for Data Analysis: Advanced Techniques for Transforming Data into Insights*. O’Reilly Media, 2020.  
-  [(https://www.oreilly.com/library/view/sql-for-data/9781492088776/)](https://www.oreilly.com/library/view/sql-for-data/9781492088776/)
